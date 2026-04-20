@@ -3,7 +3,7 @@
 > use zap logger
 
 ```bash
-go get -u github.com/mazezen/golog
+go get -u github.com/mazezen/golog@latest
 ```
 
 ### usage
